@@ -1,0 +1,15 @@
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\bin\Debug\net10.0\01a-BrushTeeth.exe
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\bin\Debug\net10.0\01a-BrushTeeth.deps.json
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\bin\Debug\net10.0\01a-BrushTeeth.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\bin\Debug\net10.0\01a-BrushTeeth.dll
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\bin\Debug\net10.0\01a-BrushTeeth.pdb
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.sourcelink.json
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.dll
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\refint\01a-BrushTeeth.dll
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.pdb
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\01a-BrushTeeth.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\exercicios\01a-BrushTeeth\obj\Debug\net10.0\ref\01a-BrushTeeth.dll
