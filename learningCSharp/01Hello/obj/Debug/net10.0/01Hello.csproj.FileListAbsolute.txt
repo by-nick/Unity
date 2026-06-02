@@ -1,0 +1,15 @@
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\bin\Debug\net10.0\01Hello.exe
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\bin\Debug\net10.0\01Hello.deps.json
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\bin\Debug\net10.0\01Hello.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\bin\Debug\net10.0\01Hello.dll
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\bin\Debug\net10.0\01Hello.pdb
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.sourcelink.json
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.dll
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\refint\01Hello.dll
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.pdb
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\01Hello.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Documentos\Estudos\Unity\learningCSharp\01Hello\obj\Debug\net10.0\ref\01Hello.dll
