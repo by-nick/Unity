@@ -210,7 +210,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!43 &893884541
+--- !u!43 &1046063320
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -538,7 +538,6 @@ GameObject:
   - component: {fileID: 1237156854}
   - component: {fileID: 1237156853}
   - component: {fileID: 1237156857}
-  - component: {fileID: 1237156861}
   m_Layer: 0
   m_Name: BirdEnemyFlapSprite
   m_TagString: Untagged
@@ -625,7 +624,7 @@ MonoBehaviour:
     rid: 340487356841197568
   m_ShadowCastingSource: 2
   m_ShadowMesh:
-    m_Mesh: {fileID: 893884541}
+    m_Mesh: {fileID: 1046063320}
     m_LocalBounds:
       m_Center: {x: 0.019996643, y: -0.0049972534, z: 0}
       m_Extent: {x: 0.5099869, y: 0.254982, z: 0}
@@ -728,21 +727,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1237156852}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 0797661c69d94a9448b98dfd548dd692, type: 3}
+  m_Script: {fileID: 11500000, guid: ab9fadddc4f485741a98c844c6956be1, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Variaveis
---- !u!114 &1237156861
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1237156852}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: be07b5ec144cbc34fbad4747f2694583, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::Foreach
+  m_EditorClassIdentifier: Assembly-CSharp::Matriz
 --- !u!1 &1268063286
 GameObject:
   m_ObjectHideFlags: 0
