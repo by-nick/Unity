@@ -3,8 +3,11 @@ using UnityEngine;
 public class Classes : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    Felino gatoF1;
+    
     void Start()
     {
+        gatoF1 = new Felino ();
         
     }
 
@@ -26,7 +29,7 @@ class Felino
     void atacar()
     {
 
-        
+
 
     }
 }
