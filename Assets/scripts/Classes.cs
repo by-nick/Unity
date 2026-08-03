@@ -8,7 +8,12 @@ public class Classes : MonoBehaviour
     void Start()
     {
         gatoF1 = new Felino ();
-        
+
+        gatoF1.nome = "Kitty";
+        gatoF1.atacar ();
+        gatoF1.corPelo = "Preto";
+        gatoF1.forca = 100;
+
     }
 
     // Update is called once per frame
@@ -20,13 +25,13 @@ public class Classes : MonoBehaviour
 class Felino
 {
     //Caracteristicas = atributos
-    string nome;
-    string corPelo;
-    int forca;
+    public string nome;
+    public string corPelo;
+    public int forca;
 
 
     //acões = metodos
-    void atacar()
+    public void atacar()
     {
 
 
